@@ -13,12 +13,3 @@ Website for [Valeria, Salud y Belleza] in Argentina. Built with HTML, CSS, and J
 1. Clone this repository
 2. Open index.html in a web browser
 ```
-
-
-width="100%"
-                        height="800px"
-                        frameborder="0"
-                        marginheight="0"
-                        marginwidth="0">
-                    Loading...
-                </iframe>
